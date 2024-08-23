@@ -7,6 +7,7 @@ import Home from './routes/Home/Home.jsx'
 import Contato from './routes/Contato/Contato.jsx'
 import Error from './routes/Error/Error.jsx'
 
+
 const router = createBrowserRouter([
   {
     path: "/",
